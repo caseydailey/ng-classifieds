@@ -1,0 +1,115 @@
+[
+
+		 {
+			"id": "1",		
+			"title": "My Favorite Cow",
+			"description": "Goat goose hen horse. Pick up truck livestock, pets and storage shed, troughs feed bale manure, is garden wheat oats at augers. Oranges cucumbers rhubarb gourds watermelon. Combine Harvester swather, baler as haybine parsley, melon in hay rake. Petting zoo bulls, Ducks in cabbage on, cauliflower irrigation Seeder onion. Hoot squeal moose quack.",
+			"price": 1000000,
+			"posted": "2017-2-24",
+			"contact": {
+				"name": "Casey",
+				"phone": "(123) 123-1234",
+				"email": "casey@email.com"
+			},
+			"categories": [
+				"cows",
+				"Live-Stock"
+			],
+			"image": "../images/cow.jpg",
+			"views": "123"
+		},
+		{
+		"id": "2",		
+			"title": "My Favorite Cow",
+			"description": "Goat goose hen horse. Pick up truck livestock, pets and storage shed, troughs feed bale manure, is garden wheat oats at augers. Oranges cucumbers rhubarb gourds watermelon. Combine Harvester swather, baler as haybine parsley, melon in hay rake. Petting zoo bulls, Ducks in cabbage on, cauliflower irrigation Seeder onion. Hoot squeal moose quack.",
+			"price": 1000000,
+			"posted": "2017-2-24",
+			"contact": {
+				"name": "Casey",
+				"phone": "(123) 123-1234",
+				"email": "casey@email.com"
+			},
+			"categories": [
+				"Animals",
+				"Live-Stock",
+				"old-cows"
+			],
+			"image": "../images/cow.jpg",
+			"views": "123"
+		},
+		{
+		"id": "3",		
+			"title": "My Favorite Cow",
+			"description": "Goat goose hen horse. Pick up truck livestock, pets and storage shed, troughs feed bale manure, is garden wheat oats at augers. Oranges cucumbers rhubarb gourds watermelon. Combine Harvester swather, baler as haybine parsley, melon in hay rake. Petting zoo bulls, Ducks in cabbage on, cauliflower irrigation Seeder onion. Hoot squeal moose quack.",
+			"price": 1000000,
+			"posted": "2017-2-24",
+			"contact": {
+				"name": "Casey",
+				"phone": "(123) 123-1234",
+				"email": "casey@email.com"
+			},
+			"categories": [
+				"Animals",
+				"Live-Stock",
+				"dairy-cows"
+			],
+			"image": "../images/cow.jpg",
+			"views": "123"
+		},
+		{
+		"id": "4",		
+			"title": "My Favorite Cow",
+			"description": "Goat goose hen horse. Pick up truck livestock, pets and storage shed, troughs feed bale manure, is garden wheat oats at augers. Oranges cucumbers rhubarb gourds watermelon. Combine Harvester swather, baler as haybine parsley, melon in hay rake. Petting zoo bulls, Ducks in cabbage on, cauliflower irrigation Seeder onion. Hoot squeal moose quack.",
+			"price": 1000000,
+			"posted": "2017-2-24",
+			"contact": {
+				"name": "Casey",
+				"phone": "(123) 123-1234",
+				"email": "casey@email.com"
+			},
+			"categories": [
+				"Animals",
+				"Live-Stock",
+				"brown-cows"
+			],
+			"image": "../images/cow.jpg",
+			"views": "123"
+		},
+		{
+		"id": "5",		
+			"title": "My Favorite Cow",
+			"description": "Goat goose hen horse. Pick up truck livestock, pets and storage shed, troughs feed bale manure, is garden wheat oats at augers. Oranges cucumbers rhubarb gourds watermelon. Combine Harvester swather, baler as haybine parsley, melon in hay rake. Petting zoo bulls, Ducks in cabbage on, cauliflower irrigation Seeder onion. Hoot squeal moose quack.",
+			"price": 1000000,
+			"posted": "2017-2-24",
+			"contact": {
+				"name": "Casey",
+				"phone": "(123) 123-1234",
+				"email": "casey@email.com"
+			},
+			"categories": [
+				"Animals",
+				"Live-Stock"
+			],
+			"image": "../images/cow.jpg",
+			"views": "123"
+		},
+		{
+		"id": "6",		
+			"title": "My Favorite Cow",
+			"description": "Goat goose hen horse. Pick up truck livestock, pets and storage shed, troughs feed bale manure, is garden wheat oats at augers. Oranges cucumbers rhubarb gourds watermelon. Combine Harvester swather, baler as haybine parsley, melon in hay rake. Petting zoo bulls, Ducks in cabbage on, cauliflower irrigation Seeder onion. Hoot squeal moose quack.",
+			"price": 1000000,
+			"posted": "2017-2-24",
+			"contact": {
+				"name": "Casey",
+				"phone": "(123) 123-1234",
+				"email": "casey@email.com"
+			},
+			"categories": [
+				"Animals",
+				"Live-Stock"
+			],
+			"image": "../images/cow.jpg",
+			"views": "123"
+		}
+
+		]
